@@ -1,0 +1,8 @@
+{
+  "name": "Jpyretta",
+  "description": "Página oficial de links exclusivos da Jpyretta\n",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
