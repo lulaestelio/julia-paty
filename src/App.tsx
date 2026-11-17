@@ -142,7 +142,7 @@ export default function App() {
           {/* Telegram VIP Button (Dark Card) */}
           <a
             id="button-telegram"
-            href="https://google.com"
+            href="https://t.me/jpyretta_bot"
             target="_blank"
             rel="noopener noreferrer"
             onClick={() => setClickedButton('telegram')}
